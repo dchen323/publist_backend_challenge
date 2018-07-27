@@ -1,0 +1,17 @@
+{
+  "name": "publist-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^9.3.2",
+    "pg": "^7.4.3",
+    "request": "^2.87.0"
+  }
+}
